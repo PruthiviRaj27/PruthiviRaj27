@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PruthiviRaj27&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PruthiviRaj27&theme=ocean_dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=PruthiviRaj27&theme=ocean_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthiviRaj27&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PruthiviRaj27&theme=tokyonight)
 
